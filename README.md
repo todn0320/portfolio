@@ -30,8 +30,8 @@ GPA: 3.1 / 4.0
 | **Programming** | Python, MATLAB, C# (Unity) |
 | **Frameworks** | TensorFlow, PyTorch, Unity3D, AR Foundation, OpenCV, NavMesh |
 | **Data/Tools** | NumPy, Pandas, Scikit-learn, SimpleITK, DICOM |
-| **Platforms** | Git, Visual Studio Code, Naver Cloud, Azure (Basic) |
-| **Domains** | Computer Vision, Digital Pathology, Biomedical Signal Processing, Speech Emotion Analysis |
+| **Platforms** | Git, Visual Studio Code, Naver Cloud, Azure (Basic), Figma |
+| **Domains** | Computer Vision, Digital Pathology, Biomedical Signal Processing, Speech Emotion Analysis, UI/UX Design |
 
 ---
 
