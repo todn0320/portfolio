@@ -1,9 +1,9 @@
-# 💼 Dahyun Eom | Medical AI Engineer / Researcher
+# 💼 Dahyun Eum | Medical AI Engineer / Researcher
 
-📍 Cheonan, South Korea  
-📧 dahyun.eom@email.com  
+📍 SEOUL, South Korea  
+📧 eum030819@email.com  
 🔗 [LinkedIn](https://linkedin.com/in/dahyuneom) | [GitHub](https://github.com/dahyuneom)  
-📱 +82-10-xxxx-xxxx  
+📱 +82-10-8827-xxxx
 🎯 Seeking: **Research Assistant / AI Intern (Healthcare AI, Computer Vision, AR/VR, Digital Pathology)**  
 🗓️ Available from **April 2026**
 
